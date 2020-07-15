@@ -1,0 +1,24 @@
+#videoDesc
+html {
+  box-sizing: border-box;
+  font-size: 500%; 
+}
+
+.Center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+body {
+  font-family: "Helvetica", sans-serif;
+  color: #333;
+  font-weight: 10;
+  line-height: 1.6;
+
+.videoDesc{
+	display: block;
+	width: auto;
+	margin: center; 
+} 
